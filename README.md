@@ -1,6 +1,8 @@
 # DSA Revision Tracker
 
-Track your DSA problem-solving journey — one question at a time.
+Track my DSA problem-solving journey
+
+Start Date - March 31st, 2026
 
 ---
 
