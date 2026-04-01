@@ -10,8 +10,8 @@ Track your DSA problem-solving journey — one question at a time.
 
 | Metric | Count |
 |--------|-------|
-| Unique Questions | 2 |
-| Times Solved | 2 |
+| Unique Questions | 3 |
+| Times Solved | 3 |
 | Revisions Done | 1 |
 | Days Tracked | 2 |
 
@@ -32,8 +32,9 @@ Track your DSA problem-solving journey — one question at a time.
 | # | Question | Status | Link |
 |---|----------|--------|------|
 | 1 | Concatenation of Array | Solved | [Solved](./Concatenation%20of%20Array/solved/) |
-| 2 | Word Pattern | Revision 1 | [Revision 1](./Word%20Pattern/revision1/) |
+| 2 | Contains Duplicate | Solved | [Solved](./Contains%20Duplicate/solved/) |
+| 3 | Word Pattern | Revision 1 | [Revision 1](./Word%20Pattern/revision1/) |
 
 ---
 
-*Last updated: 2026-04-01 16:36:44*
+*Last updated: 2026-04-01 16:43:04*
