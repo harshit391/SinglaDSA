@@ -10,7 +10,7 @@ Track your DSA problem-solving journey — one question at a time.
 |--------|-------|
 | Unique Questions | 2 |
 | Times Solved | 2 |
-| Revisions Done | 0 |
+| Revisions Done | 1 |
 | Days Tracked | 2 |
 
 ---
@@ -30,7 +30,8 @@ Track your DSA problem-solving journey — one question at a time.
 | # | Question | Status | Link |
 |---|----------|--------|------|
 | 1 | Concatenation of Array | Solved | [Solved](./Concatenation%20of%20Array/solved) |
+| 2 | Word Pattern | Revision 1 | [Revision 1](./Word%20Pattern/revision1) |
 
 ---
 
-*Last updated: 2026-04-01 15:41:46*
+*Last updated: 2026-04-01 15:53:36*
