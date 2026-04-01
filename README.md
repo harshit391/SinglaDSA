@@ -8,10 +8,10 @@ Track your DSA problem-solving journey — one question at a time.
 
 | Metric | Count |
 |--------|-------|
-| Unique Questions | 1 |
-| Times Solved | 1 |
+| Unique Questions | 2 |
+| Times Solved | 2 |
 | Revisions Done | 0 |
-| Days Tracked | 1 |
+| Days Tracked | 2 |
 
 ---
 
@@ -25,4 +25,12 @@ Track your DSA problem-solving journey — one question at a time.
 
 ---
 
-*Last updated: 2026-03-31 21:48:49*
+### Day 2  (2026-04-01)
+
+| # | Question | Status | Link |
+|---|----------|--------|------|
+| 1 | Concatenation of Array | Solved | [Solved](./Concatenation%20of%20Array/solved) |
+
+---
+
+*Last updated: 2026-04-01 15:41:46*
